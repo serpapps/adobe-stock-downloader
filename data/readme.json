@@ -1,0 +1,92 @@
+{
+  "id": 3,
+  "created_at": "2025-01-23T00:00:00Z",
+  "seo_title": "Adobe Stock Downloader - Free Download Tool",
+  "seo_description": "Download Adobe Stock images, videos, and templates without watermarks",
+  "product_page_url": "https://store.serp.co/product-details/product/adobe-stock-downloader",
+  "purchase_url": "https://serp.ly/adobe-stock-downloader",
+  "store_product_id": null,
+  "name": "Adobe Stock Downloader",
+  "tagline": "Download Adobe Stock images, videos, and templates without watermarks",
+  "featured_image": "images/featured.jpg",
+  "featured_image_gif": "images/featured.gif",
+  "github_repo_url": "https://github.com/serpapps/adobe-stock-downloader",
+  "github_repo_tags": [
+    "adobe-stock-downloader",
+    "downloader",
+    "automation",
+    "tools"
+  ],
+  "github_gist_url": null,
+  "features": [
+    "High-resolution downloads",
+    "Video and image support",
+    "Template extraction",
+    "Batch processing",
+    "Metadata preservation",
+    "Preview quality bypass"
+  ],
+  "chrome_web_store_url": null,
+  "description": "Adobe Stock Downloader is a powerful tool that helps you download adobe stock images, videos, and templates without watermarks. Built with modern technologies, it provides a seamless experience for downloading and managing content.",
+  "product_video": null,
+  "related_videos": null,
+  "changelog": null,
+  "version_number": 1,
+  "updated_at": "2025-01-23T00:00:00Z",
+  "troubleshooting_instructions": [],
+  "installation_instructions": "1. Clone the repository: git clone https://github.com/serpapps/adobe-stock-downloader\n2. Install dependencies\n3. Configure settings\n4. Run the application",
+  "usage_instructions": [
+    "Open the application",
+    "Enter the URL of the content you want to download",
+    "Select your preferred quality and format",
+    "Click download to start the process",
+    "Files will be saved to your specified directory"
+  ],
+  "faqs": null,
+  "supported_operating_systems": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "status": "live",
+  "technologies": [
+    "Python",
+    "Playwright",
+    "FFmpeg",
+    "ImageMagick"
+  ],
+  "serpco_product_page_link": "https://store.serp.co/product-details/product/adobe-stock-downloader",
+  "serpai_product_page_link": null,
+  "file_formats": null,
+  "categories": [
+    "Stock Media Tools",
+    "Creative Assets",
+    "Professional Resources"
+  ],
+  "extraction_targets": null,
+  "content_medium": null,
+  "discovery_source": null,
+  "related_articles": null,
+  "related_gists": null,
+  "funding_links_github": [
+    "devinschumacher"
+  ],
+  "funding_links_liberapay": [
+    "serply"
+  ],
+  "funding_links_opencollective": [
+    "serply"
+  ],
+  "funding_links_custom": [
+    "https://serp.ly/adobe-stock-downloader"
+  ],
+  "keywords": [
+    "adobe-stock-downloader",
+    "adobe",
+    "stock",
+    "downloader",
+    "downloader",
+    "free",
+    "tool"
+  ]
+}
