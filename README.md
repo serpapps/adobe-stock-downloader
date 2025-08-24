@@ -2,9 +2,9 @@
 
 > Download Adobe Stock images, videos, and templates without watermarks
 
-![Adobe Stock Downloader](https://raw.githubusercontent.com/serpapps/adobe-stock-downloader/assets/images/featured.gif)
+![Adobe Stock Downloader](https://raw.githubusercontent.com/serpapps/adobe-stock-downloader/assets/images/adobe-stock-downloader.gif)
 
-Adobe Stock Downloader is a powerful tool that helps you download adobe stock images, videos, and templates without watermarks. Built with modern technologies, it provides a seamless experience for downloading and managing content.
+Adobe Stock Downloader is a powerful tool that helps you download content from Adobe Stock instantly without ads or popups. Built with modern technologies, it provides a seamless experience for downloading and managing content.
 
 ## 🔗 Links
 
@@ -22,12 +22,12 @@ Adobe Stock Downloader is a powerful tool that helps you download adobe stock im
 
 ## Features
 
-- High-resolution downloads
-- Video and image support
-- Template extraction
-- Batch processing
-- Metadata preservation
-- Preview quality bypass
+- Stream-to-file conversion
+- HD quality downloads
+- Batch download support
+- Resume interrupted downloads
+- No watermarks
+- Content extraction
 
 ## Installation Instructions
 
@@ -47,11 +47,17 @@ Adobe Stock Downloader is a powerful tool that helps you download adobe stock im
 ## Technologies
 
 - Python
-- Playwright
-- FFmpeg
-- ImageMagick
+- JavaScript
+- Node.js
+- Automation
 
 ## More Info
 
 - 📁 Repository [here](https://github.com/serpapps/adobe-stock-downloader)
+
+<details>
+<summary>Keywords</summary>
+
+adobe stock downloader
+</details>
 
